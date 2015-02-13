@@ -1,8 +1,8 @@
 [
   {
-	"remote": "github",
+    "remote": "github",
     "repository": "remicks/android_device_samsung_klte-common",
     "target_path": "device/samsung/klte-common",
-	"revision": "lp5.0"
+    "revision": "lp5.0"
   }
 ]
