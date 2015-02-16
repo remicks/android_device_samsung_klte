@@ -36,3 +36,6 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 12442369024 # 12442385408 - 16384
 
 # inherit from the proprietary version
 -include vendor/samsung/klte/BoardConfigVendor.mk
+
+# BlissPop Cinfigs
+Bliss_Build_Block := 1
