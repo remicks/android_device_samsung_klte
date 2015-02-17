@@ -24,9 +24,9 @@
     "revision": "cm-12.0"
   },
   {
-    "remote": "cm",
-    "repository": "android_kernel_samsung_klte",
+    "remote": "github",
+    "repository": "ktoonsez/KTSGS5",
     "target_path": "kernel/samsung/klte",
-    "revision": "cm-12.0"
+    "revision": "aosp5.0"
   }
 ]
