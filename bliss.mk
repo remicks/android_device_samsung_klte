@@ -9,5 +9,5 @@ PRODUCT_NAME := bliss_klte
 
 # KToonsez apps
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/kt/com.ktoonsez.KTmonitor.apk:system/app/com.ktoonsez.KTmonitor.apk \
-    $(LOCAL_PATH)/kt/com.ktoonsez.KTweaker.apk:system/app/com.ktoonsez.KTweaker.apk
+    $(LOCAL_PATH)/kt/com.ktoonsez.KTmonitor.apk:system/priv-app/com.ktoonsez.KTmonitor/com.ktoonsez.KTmonitor.apk \
+    $(LOCAL_PATH)/kt/com.ktoonsez.KTweaker.apk:system/priv-app/com.ktoonsez.KTweaker/com.ktoonsez.KTweaker.apk
