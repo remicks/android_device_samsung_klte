@@ -36,3 +36,12 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 12442369024 # 12442385408 - 16384
 
 # inherit from the proprietary version
 -include vendor/samsung/klte/BoardConfigVendor.mk
+
+# Bliss config flags
+TARGET_TC_ROM := 4.9-sm
+TARGET_TC_KERNEL := 4.9-sm
+BLISSIFY := true
+BLISS_O3 := true
+BLISS_STRICT := true
+BLISS_GRAPHITE := true
+BLISS_KRAIT := true
